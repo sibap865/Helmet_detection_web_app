@@ -18,3 +18,4 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: git push --force https://Sibaprasad:$HF_TOKEN@huggingface.co/spaces/Sibaprasad/HelmetDetection-app main
+ 
