@@ -39,6 +39,12 @@ pip install -r requirements.txt
 # Finally run the following command
 python app.py
 ```
+### STEP 06- (optional) Deploy app to Huggingface🤗 space🚂
+```bash
+#create a Hugging face account
+#Upload the complete repo to new space
+# Done✅
+```
 
 Connect with me for more projects like this 😊:
 ## Github: [Github](https://github.com/sibap865)
