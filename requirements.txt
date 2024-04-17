@@ -1,6 +1,6 @@
 
 streamlit==1.22.0
-
+st-clickable-images
 
 # YOLOv5 requirements
 # Usage: pip install -r requirements.txt
